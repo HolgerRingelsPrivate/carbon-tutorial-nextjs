@@ -1,5 +1,6 @@
 'use client';
+import Counter from '../../components/patterns/Counter';
 
 export default function LandingPage() {
-  return <div>LANDING PAGE</div>;
+  return <Counter />;
 }
