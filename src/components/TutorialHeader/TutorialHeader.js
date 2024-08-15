@@ -31,8 +31,8 @@ const TutorialHeader = () => (
           </HeaderName>
         </Link>
         <HeaderNavigation aria-label="Carbon Tutorial">
-          <Link href="/repos" passHref legacyBehavior>
-            <HeaderMenuItem href="/repos">Repositories</HeaderMenuItem>
+          <Link href="/demoonly" passHref legacyBehavior>
+            <HeaderMenuItem>Repositories</HeaderMenuItem>
           </Link>
         </HeaderNavigation>
         <SideNav
@@ -42,8 +42,8 @@ const TutorialHeader = () => (
         >
           <SideNavItems>
             <HeaderSideNavItems>
-              <Link href="/repos" passHref legacyBehavior>
-                <HeaderMenuItem href="/repos">Repositories</HeaderMenuItem>
+              <Link href="/demoonly" passHref legacyBehavior>
+                <HeaderMenuItem>Repositories</HeaderMenuItem>
               </Link>
             </HeaderSideNavItems>
           </SideNavItems>
