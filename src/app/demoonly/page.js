@@ -1,5 +1,6 @@
-`use client`;
+'use client';
+import Counter from '../../components/patterns/Counter';
 
 export default function RepoPage() {
-  return <div>REPO PAGE</div>;
+  return <Counter />;
 }
