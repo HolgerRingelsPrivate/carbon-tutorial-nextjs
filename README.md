@@ -4,7 +4,7 @@ This tutorial will guide you in creating a NextJS app with the [Carbon Design Sy
 
 Get started by visiting the [tutorial instructions](https://carbondesignsystem.com/developing/react-tutorial/overview/).
 
-## Create NextJS 13 app
+## Create NextJS 13 app :-)
 
 ```bash
 yarn create next-app
